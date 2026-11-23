@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+CHIGNIK+LAGOON",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+CHIGNIK+LAGOON",
+  "title": "Federal Register - AK NATIVE VILLAGE OF CHIGNIK LAGOON",
+  "fetched_at": "2026-11-23T16:11:35.728878Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 235475,
+  "sha256": "079d080127a964ac17f5b2c23d0003c329362324d8b65a7f4f1dde54597ed829",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
